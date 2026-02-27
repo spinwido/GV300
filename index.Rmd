@@ -1,7 +1,6 @@
 ---
-title: "mfeo"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Home"
+output: distill::distill_article
 site: distill::distill_website
 ---
 
