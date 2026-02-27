@@ -1,6 +1,6 @@
 ---
 title: "Nicole Baerg"
-image: "nicolebaerg2.jpg"
+image: "nicolebaerg2.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/nicole-rae-baerg"
