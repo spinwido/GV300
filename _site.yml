@@ -11,4 +11,4 @@ navbar:
       href: about.html
     - text: "Data"
       href: data.html
-output: distill::distill_article
+output: docs
