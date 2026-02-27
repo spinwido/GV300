@@ -1,7 +1,7 @@
-name: "."
-title: "mfeo"
+name: "GV300"
+title: "GV300"
 description: |
-  mfeo
+  GV300 Course Website
 output_dir: "docs"
 navbar:
   right:
@@ -11,4 +11,4 @@ navbar:
       href: about.html
     - text: "Data"
       href: data.html
-output: docs
+output: distill::distill_article
