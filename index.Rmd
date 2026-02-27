@@ -4,5 +4,3 @@ output: distill::distill_article
 site: distill::distill_website
 ---
 
-This is the landing page. You can do whatever you want with the landing page. 
-
