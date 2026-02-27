@@ -4,7 +4,5 @@ output: distill::distill_article
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+Hi, my name is Nicole Baerg and I am a Senior Lecturer in the Department of Government at the University of Essex. I made my students make a data portfolio for their class GV300, with the hopes that they will wow you. 
 
