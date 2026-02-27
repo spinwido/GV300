@@ -1,7 +1,7 @@
-name: "GV300"
-title: "GV300"
+name: "."
+title: "mfeo"
 description: |
-  GV300 Course Website
+  mfeo  
 output_dir: "docs"
 navbar:
   right:
