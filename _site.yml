@@ -7,8 +7,8 @@ output_dir: "docs"
 navbar:
   right:
     - text: "Home"
-      href: nicole.html
+      href: index.html
     - text: "About"
-      href: about.html
+      href: nicole.html
     - text: "Data"
       href: data.html
